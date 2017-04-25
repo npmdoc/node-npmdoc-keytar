@@ -1,6 +1,6 @@
 # npmdoc-keytar
 
-#### api documentation for  [keytar (v4.0.2)](http://atom.github.io/node-keytar)  [![npm package](https://img.shields.io/npm/v/npmdoc-keytar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-keytar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-keytar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-keytar)
+#### basic api documentation for  [keytar (v4.0.2)](http://atom.github.io/node-keytar)  [![npm package](https://img.shields.io/npm/v/npmdoc-keytar.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-keytar) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-keytar.svg)](https://travis-ci.org/npmdoc/node-npmdoc-keytar)
 
 #### Bindings to native Mac/Linux/Windows password APIs
 
